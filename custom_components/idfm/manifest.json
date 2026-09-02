@@ -8,7 +8,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/droso-hass/idfm/issues",
   "requirements": [
-      "idfm-api@git+https://github.com/AntoineGauthier/idfm-api.git@02ebb59"
+      "idfm-api@git+https://github.com/AntoineGauthier/idfm-api.git@d0f5a37"
   ],
   "version": "2.3.1"
 }
